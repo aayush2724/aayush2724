@@ -64,13 +64,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush2724&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush2724&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aayush2724&theme=github-dark-blue&hide_border=true)
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=aayush2724&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400&v=1" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush2724&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=aayush2724&theme=github-dark-blue&hide_border=true&v=1" height="165"/>
+
 </div>
  
 ---
