@@ -2,7 +2,7 @@
 
 # Hey, I'm Aayush 👋
 
-### student dev · guitarist · problem solver
+### student dev · problem solver
 
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-2ea44f?style=flat-square)
 ![DSA in C++](https://img.shields.io/badge/DSA%20in%20C%2B%2B-388bfd?style=flat-square)
