@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aayush 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=500&lines=Student+Developer;Competitive+Programmer;Full-Stack+Web+Tinkerer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=500&lines=Student+Developer;Full-Stack+Web+Tinkerer;Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/aayush2724"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Currently diving deep into **Full-Stack Development** using the **MERN Stack** (React & Node).
-- 🧠 Consistently grinding **Data Structures and Algorithms (DSA)** in **C++** and doing Competitive Programming.
+- 🧠 Consistently grinding **Data Structures and Algorithms (DSA)** in **C++**.
 - 💡 Passionate about building impactful web apps and solving real-world problems.
 - 🎸 **Fun Fact:** When I'm not pushing commits, I'm playing my guitar. *Code by day. Chords by night.*
 
