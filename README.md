@@ -107,7 +107,7 @@ flows. Built for production deployment on Vercel.
 If you're building something interesting and need a developer who can
 work across the stack — frontend, backend, or ML glue code — reach out.
 
-**Email:** your@email.com
+**Email:** aayush2615@gmail.com
 **LinkedIn:** linkedin.com/in/aayush2724
 
 ---
