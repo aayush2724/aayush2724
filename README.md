@@ -2,8 +2,8 @@
 
 <p align="center">
   <strong>Full-stack developer & CS sophomore</strong><br/>
-  I build projects end-to-end: REST APIs, React frontends, ML inference, and data pipelines.<br/>
-  Currently open to <strong>remote internships & freelance opportunities</strong>.<br/>
+  I engineer robust, scalable software across the stack.<br/>
+  Open to <strong>remote internships & freelance opportunities</strong>.<br/>
   <a href="mailto:aayush2615@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/aayush2724">LinkedIn</a> ·
   <a href="https://leetcode.com/aayush2717">LeetCode</a>
@@ -31,25 +31,6 @@
 
 ---
 
-## 🌟 Highlight Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [LeadForge](https://github.com/aayush2724/LeadForge) | Node.js, Python, Apollo API, Claude API, PostgreSQL | AI-powered lead scoring & outreach engine – enrichment → scoring → outreach pipeline. |
-| Music Intelligence Engine | React, Node.js, FastAPI, librosa, YAMNet | Shazam-style song ID & deep audio analysis. (Work in progress.) |
-| Job Portal | Next.js, NextAuth, MongoDB | Role-based hiring platform with recruiter/candidate flows. |
-| [AI-E1-2025-26](https://github.com/aayush2724/AI-E1-2025-26) | Python | Classic AI algorithms (BFS, DFS, etc.) and agent simulations for learning purposes. |
-| [HackFindo](https://github.com/aayush2724/HackFindo) | JavaScript | Project for hackathons or idea finding (web-based). |
-| [chatRoom](https://github.com/aayush2724/chatRoom) | HTML, CSS, JS | Web-based real-time chat demo. |
-| [quiz-app](https://github.com/aayush2724/quiz-app) | JavaScript | Online quiz application with UI forms. |
-| [expense-tracker](https://github.com/aayush2724/expense-tracker) | CSS, JS | Track and visualize expenses. |
-| [e-commerce-](https://github.com/aayush2724/e-commerce-) | JavaScript | Learning e-commerce web platform. |
-| [weatherupdate](https://github.com/aayush2724/weatherupdate) | JavaScript | Weather updates web app (API powered). |
-| [rat-maze](https://github.com/aayush2724/rat-maze) | HTML | Visualizes maze-solving/AI. |
-| [Guessergame](https://github.com/aayush2724/Guessergame) | JavaScript | Classic number guessing game – web version. |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,19 +52,11 @@
 
 ---
 
-## 🔭 Currently
-
-- Building: Music Intelligence Engine (audio fingerprinting + ML features)
-- DSA grinding in C++ on LeetCode
-- Open to remote roles where I can ship real features
-
----
-
 ## 📬 Get in touch
 
-If you’re building something cool and need a developer to handle frontend, backend, or ML, let’s chat!
-- **Email:** aayush2615@gmail.com
-- **LinkedIn:** [linkedin.com/in/aayush2724](https://linkedin.com/in/aayush2724)
+If you’re building something cool and need a developer to handle frontend, backend, or ML, let’s chat!  
+**Email:** aayush2615@gmail.com  
+**LinkedIn:** [linkedin.com/in/aayush2724](https://linkedin.com/in/aayush2724)
 
 ---
 
