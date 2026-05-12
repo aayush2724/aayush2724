@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0F1A,50:0C447C,100:185FA5&height=200&section=header&text=Aayush&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20CS%20Sophomore%20%E2%80%A2%20Open%20to%20Remote&descAlignY=62&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Aayush&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20CS%20Sophomore%20%E2%80%A2%20Open%20to%20Remote&descAlignY=62&descSize=17" width="100%" />
 
 <div align="center">
 
@@ -39,6 +39,7 @@ Currently open to **remote internships and freelance projects**.
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
