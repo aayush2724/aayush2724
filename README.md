@@ -17,7 +17,7 @@ Currently open to **remote internships and freelance projects**.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush2724)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aayush2717)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aayush2724)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayush2615@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush2724)
 
@@ -85,25 +85,6 @@ Currently open to **remote internships and freelance projects**.
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush2724&theme=tokyo-night&hide_border=true&area=true&area_color=185FA5" width="100%" />
-
----
-
-## ⚔️ DSA / Competitive Programming
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-aayush2717-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aayush2717)
-
-*Competed in LeetCode Weekly Contest 500 · Grinding in C++*
-
-<img src="https://leetcard.jacoblin.cool/aayush2717?theme=dark&font=Karma&ext=heatmap" />
-
-</div>
-
-**Recent contest problems tackled:**
-- Q2 — Prime sum with digit reversal
-- Q3 — Directed graph shortest path (Dijkstra optimisation)
-- Q4 — Max fixed points after deletions (O(n log n) LIS-on-differences)
 
 ---
 
