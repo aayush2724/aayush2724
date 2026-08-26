@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-- 🎓 2nd-year B.E. CSE (AI & ML) student, NIE Mysore — CGPA 9.3/10
+- 🎓 3rd-year B.E. CSE (AI & ML) student, NIE Mysore — CGPA 9.3/10
 - 🛡️ President, **OWASP NIE Student Chapter**
 - 🔨 Currently building **Beatzy** — a music intelligence SaaS with real-time audio fingerprinting
 - 🤖 Recently shipped **Auralis**, an AI sales bot that reached the top 200/8,700+ teams at Innovac
