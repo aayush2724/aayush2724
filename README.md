@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20Aayush&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Sophomore%20%E2%80%A2%20AppSec&descAlignY=58&descSize=18" width="100%" />
+<img src="assets/banner.png" width="100%" alt="Pixel-art night desk setup banner" />
 
 <div align="center">
 
@@ -16,41 +16,73 @@
 
 <br/>
 
-## 👋 About Me
+### 👋 About Me
 
 - 🎓 3rd-year B.E. CSE (AI & ML) student, NIE Mysore — CGPA 9.3/10
 - 🛡️ President, **OWASP NIE Student Chapter**
 - 🔨 Currently building **Beatzy** — a music intelligence SaaS with real-time audio fingerprinting
 - 🤖 Recently shipped **Auralis**, an AI sales bot that reached the top 200/8,700+ teams at Innovac
+- 🏆 **LeadForge** (AI B2B lead pipeline) placed 3rd at ThinkRoot xVertex '26, an NIT Trichy hackathon
+- ⚡ I believe in **building fast and shipping faster**
+- 🧠 Always exploring new codebases, fresh project ideas, and AI-native tools
 - 📫 Open to remote internships, freelance work, and interesting collaborations
+- 🌐 Portfolio: [aayush-2724.vercel.app](https://aayush-2724.vercel.app)
 
 <br/>
 
-## 🧰 Tech Stack
+### 🏆 Hackathons & Achievements
+
+- 🥉 **LeadForge / P95.AI Lead Engine** — 3rd place, ThinkRoot xVertex '26 (NIT Trichy)
+- 🤖 **Auralis** — Top 200 of 8,700+ teams, Innovac hackathon grand finale
+- ⚙️ **FactorySense AI** — HACKFINIX 2026
+- 🛣️ **RoadSoS** — National Road Safety Hackathon 2026
+- 📱 **Phantom Memory** — Samsung ennovateX AX Hackathon
+- ⛓️ **ProvenanceChain** — blockchain hackathon
+- 🚧 Building an agentic AI system for government scheme discovery at **DSU DEVHACK 3.0** (Sept 2026)
+
+<br/>
+
+### 🧮 Competitive Programming
+
+- 725+ problems solved across graphs, DP, and advanced data structures — primarily in C++
+- Active on LeetCode Weekly Contests — see live stats on [LeetCode](https://leetcode.com/aayush2724)
+
+<br/>
+
+### 💻 Tech Stack
 
 <div align="center">
 
-**Frontend**
-<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" />
-
-**Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,bun,express,flask,fastapi&theme=dark" />
-
-**AI, Data & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,mysql,redis&theme=dark" />
-
-**Security, DevOps & Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,docker,git,vercel,render&theme=dark" />
 
 </div>
 
+**Tools & DevOps**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-38BDF8?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
 <br/>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <details open>
 <summary><b>🎵 Beatzy — Music Intelligence SaaS</b></summary>
@@ -102,9 +134,49 @@ Formerly Shiftora — audited and migrated to a MERN-based architecture for Shop
 
 </details>
 
+<details>
+<summary><b>📈 LeadForge (P95.AI Lead Engine) — AI B2B Lead Pipeline</b></summary>
 <br/>
 
-## 📊 GitHub Analytics
+An AI-driven B2B lead generation and enrichment pipeline. Placed 3rd at ThinkRoot xVertex '26, an NIT Trichy hackathon.
+
+`AI/ML` `Python` `FastAPI`
+
+</details>
+
+<details>
+<summary><b>📚 DeskGuard — Library Seat Booking & Anti-Hoarding System</b></summary>
+<br/>
+
+A real-time library seat booking system designed to prevent seat hoarding, with live occupancy updates and a 3D visual layer.
+
+`React` `Node.js/Express` `PostgreSQL` `Redis` `SSE` `Three.js`
+
+</details>
+
+<details>
+<summary><b>🧘 MindFlow — Student Wellness Platform</b></summary>
+<br/>
+
+A hackathon-built wellness platform for students, with AI-assisted check-ins and an animated, immersive interface.
+
+`React 19` `Firebase` `Framer Motion` `Three.js` `Node.js/Express` `Gemini API`
+
+</details>
+
+<details>
+<summary><b>📊 AlgoVision — DSA Visualizer</b></summary>
+<br/>
+
+A data-structures-and-algorithms visualizer with cinematic Three.js scenes for step-by-step animation.
+
+`Three.js` `FastAPI` `JavaScript`
+
+</details>
+
+<br/>
+
+### ⚡ GitHub Stats
 
 <div align="center">
 
@@ -119,7 +191,7 @@ Formerly Shiftora — audited and migrated to a MERN-based architecture for Shop
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush2724&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8" width="100%" />
 
-> ⚠️ Note: the three widgets above are served by free community-hosted APIs (Vercel). They occasionally rate-limit or go down for everyone — if a box looks broken, it's almost always their service, not your README. Refreshing after a few minutes usually fixes it.
+> ⚠️ Note: the widgets above are served by free community-hosted APIs (Vercel). They occasionally rate-limit or go down for everyone — if a box looks broken, it's almost always their service, not your README. Refreshing after a few minutes usually fixes it.
 
 <br/>
 
