@@ -44,7 +44,6 @@
 ### 🧮 Competitive Programming
 
 - 725+ problems solved across graphs, DP, and advanced data structures — primarily in C++
-- Active on LeetCode Weekly Contests — see live stats on [LeetCode](https://leetcode.com/aayush2724)
 
 <br/>
 
